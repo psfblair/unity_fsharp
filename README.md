@@ -10,6 +10,9 @@ also copy the dlls to another location (if it exists); this is intended
 for putting the dlls into a mounted remote directory for building on a
 remote server.
 
+The project contains an empty Assets/Plugins directory to indicate that
+this directory needs to be created in your project.
+
 There is also a .gitignore included that is useful for Unity F# projects.
 
 ## Prerequisites
